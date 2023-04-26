@@ -1,5 +1,12 @@
 
 
+## 0.0.4 (2023-04-26)
+
+
+### 🔧配置文件
+
+* **custom:** init ([df471dc](https://github.com/NicCraver/learn-release-it/commit/df471dc27df31177245def04ccc0543996647ccd))
+
 ## [0.0.3](https://gitee.com/bi_1773587692/demo-commit/compare/0.0.2...0.0.3) (2023-03-13)
 
 
